@@ -15,6 +15,7 @@
 
 
 % Things to Note:
+
  % If playing in multiplayer mode, there hasnt been any mutex added for input/output threads so its necessary to 
  
  % adding empty newlines after a command to refresh the terminal
